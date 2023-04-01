@@ -1,9 +1,13 @@
 # EDA-test
 CodeOp EDA Milestone
 Using the Air BnB dataset that you’ve used previously, do the following:
+
 Combine the analysis that you’ve done so far into one file
+
 Organize it in a way such that the story you’re telling is following a logical pattern
+
 Add  additional analyses to your document as how you see fit
+
 Once this is complete, post it on your GitHub repository and send me the URL to your repository via Slack by the end of Sunday night. In order to do so, this means that you would need to create a brand new repository with the proper name.
 When doing your exploratory analysis, here are some questions that might help guide you:
 What data science story are you trying to tell?
